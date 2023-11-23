@@ -51,4 +51,4 @@ while iniciar == 1:
 if iniciar == 2:
   print("\n############# Obrigado por utilizar! #############")
   print("Para realizar um novo cálculo reinicie o programa.")
-  print("######################### Fim. ####################")
+  print("######################### Fim! ####################")
