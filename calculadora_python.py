@@ -49,6 +49,7 @@ while iniciar == 1:
     print("\nOpção inválida! \nTente novamente:")
     iniciar = int(input("\nDeseja realizar um novo cálculo? \n1 - Sim \n2 - Não \nDigite uma opção: "))
 if iniciar == 2:
-  print("\n############# Obrigado por utilizar! #############")
+  print("\n##################################################")
+  print("############# Obrigado por utilizar! #############")
   print("Para realizar um novo cálculo reinicie o programa.")
-  print("######################### -Fim- ####################")
+  print("######################## -Fim- ###################")
